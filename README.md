@@ -28,8 +28,4 @@ I built this project while learning Java to get more comfortable with object-ori
 
 ---
 
-## 📁 How to Run It
-
-1. Make sure you have Java installed.
-2. Clone or download this project.
-3. Open the `.java` file in your IDE or terminal.Compile it and then Run it.
+ 
