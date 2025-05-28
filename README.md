@@ -22,5 +22,14 @@ This is a basic console-based banking application written in Java. It allows use
 - Basic OOP structure
 
 ---
- 
+## 🎯 Why I Made This
 
+I built this project while learning Java to get more comfortable with object-oriented programming, input handling, and writing clean, functional code. It’s one of my first attempts at simulating a real-world system from scratch.
+
+---
+
+## 📁 How to Run It
+
+1. Make sure you have Java installed.
+2. Clone or download this project.
+3. Open the `.java` file in your IDE or terminal.Compile it and then Run it.
